@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "python-notebook-template"
+version = "0.1.0"
+description = "A template project for working with Python Jupyter notebooks."
+authors = ["William Lyon"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "python_notebook_template"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0.0"
+
+[tool.poetry.group.dev.dependencies]
+poetry-dotenv-plugin = "^0.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
