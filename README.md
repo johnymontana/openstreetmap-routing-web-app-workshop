@@ -25,6 +25,8 @@ Then use [this notebook](https://github.com/johnymontana/openstreetmap-routing-w
 
 We're using Dijkstra's algorithm for routing - can you improve the routing query using the A* algorithm?
 
+![](img/path_finding.png)
+
 
 ## Setup
 
