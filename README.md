@@ -4,6 +4,8 @@
 
 Slides: [dev.neo4j.com/routing-workshop](https://dev.neo4j.com/routing-workshop)
 
+[![](img/video.png)](Screen Shot 2023-03-30 at 11.31.17 AM.png)
+
 Using GitHub Codespaces is the recommended way to create a Python development environment for this workshop.
 
 ![](img/codespaces.png)
