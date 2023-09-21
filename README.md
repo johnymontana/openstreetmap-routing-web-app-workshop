@@ -2,7 +2,9 @@
 
 ![](img/BostonGraphViz.png)
 
-Slides: [dev.neo4j.com/routing-workshop](https://dev.neo4j.com/routing-workshop)
+* Slides: [dev.neo4j.com/routing-workshop](https://dev.neo4j.com/routing-workshop)
+* Tutorial: [Published On Medium here](https://medium.com/neo4j/build-a-routing-web-app-with-neo4j-openstreetmap-and-leaflet-js-bdc66443132c)
+* Video: [Workshop recording](https://www.youtube.com/watch?v=Z4XZgsbaD9c)
 
 [![Build a routing web application with openstreetmap, neo4j, and leaflet.js](img/video.png)](https://www.youtube.com/watch?v=Z4XZgsbaD9c)
 
